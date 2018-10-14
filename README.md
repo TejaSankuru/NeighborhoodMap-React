@@ -14,11 +14,6 @@ Built with: HTML, CSS, JavaScript, React.
 - Install all project dependencies with `npm install`
 - Start the server with `npm start`
 
-### Production Mode
-- To create a production build use `npm run build`
-- Navigate to the build directory and start the server with `npm run deploy`
-- This mode includes a Service Worker.
-
 ## Resources:
 - [Walkthrough](https://www.diigo.com/outliner/fkkuvb/Udacity-Neighborhood-Map-Project-(project-%237)?key=25wgqnwals)
 - [Google Maps Platform Documentation](https://developers.google.com/maps/documentation/)
