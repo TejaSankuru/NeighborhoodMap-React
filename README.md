@@ -14,6 +14,8 @@ Built with: HTML, CSS, JavaScript, React.
 - Install all project dependencies with `npm install`
 - Start the server with `npm start`
 
+![alt text](http://localhost:3000/)
+
 ## Resources:
 - [Walkthrough](https://www.diigo.com/outliner/fkkuvb/Udacity-Neighborhood-Map-Project-(project-%237)?key=25wgqnwals)
 - [Google Maps Platform Documentation](https://developers.google.com/maps/documentation/)
