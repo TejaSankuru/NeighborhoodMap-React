@@ -13,8 +13,10 @@ Built with: HTML, CSS, JavaScript, React.
 - Download or Clone the Repository.
 - Install all project dependencies with `npm install`
 - Start the server with `npm start`
-
-![alt text](http://localhost:3000/)
+ 
+ Once your local npm server is started you should see the following at localhost:3030
+ 
+[![Screen-Shot-2018-10-21-at-10-42-16-AM.png](https://i.postimg.cc/vmqpbNL4/Screen-Shot-2018-10-21-at-10-42-16-AM.png)](https://postimg.cc/nsmd1TWx)
 
 ## Resources:
 - [Walkthrough](https://www.diigo.com/outliner/fkkuvb/Udacity-Neighborhood-Map-Project-(project-%237)?key=25wgqnwals)
